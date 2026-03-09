@@ -1,5 +1,8 @@
 # RAG Financeiro 📈
 
+**🚀 Aplicação ao Vivo:** [Teste o Agente no Hugging Face Spaces]
+
+(https://huggingface.co/spaces/Prof-Saulo-Santos/agent-financ-gemini)
 ![Python](https://img.shields.io/badge/Python-3.13%2B-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Interface_Web-FF4B4B?logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Orquestra%C3%A7%C3%A3o-1C3C3C?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&logoColor=white)
